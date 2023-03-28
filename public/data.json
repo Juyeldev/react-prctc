@@ -1,0 +1,38 @@
+[
+    {
+        "id": "641ed78114177cb23c91e1c9",
+        "price": 266,
+        "name": "Juyel Mercado",
+        "gender": "male"
+    },
+    {
+        "id": "641ed781c812024fba46066c",
+        "price": 442,
+        "name": "Audra Mercer",
+        "gender": "female"
+    },
+    {
+        "id": "641ed7811eb8fd68edbea97b",
+        "price": 169,
+        "name": "Laverne Macias",
+        "gender": "female"
+    },
+    {
+        "id": "641ed7818d3c2e6d412aa4df",
+        "price": 382,
+        "name": "Calderon Miller",
+        "gender": "male"
+    },
+    {
+        "id": "641ed781d3b2cba3a2f77bc3",
+        "price": 148,
+        "name": "Roslyn Love",
+        "gender": "female"
+    },
+    {
+        "id": "641ed78119e90ab68926def2",
+        "price": 74,
+        "name": "Watts Porter",
+        "gender": "male"
+    }
+]
